@@ -1,5 +1,9 @@
 body {
-  background-color: #026EE0;
+  background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/animated-3d-background-images-gif-1.gif");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
