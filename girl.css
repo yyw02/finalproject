@@ -30,8 +30,8 @@ a{
 
 img {
   border-radius: 150px;
-  width: 300px;
-  height: 290px;
+  width: 550px;
+  height: 550px;
   padding-top: 80px;
   padding-bottom: 40px;
   padding-right: 35px;
@@ -52,8 +52,3 @@ body
 margin: 0;
 padding: 0;
 }
-
-/* font-family: 'Acme', sans-serif;
-font-family: 'Abril Fatface', cursive;
-font-family: 'Baloo Chettan', cursive;
-font-family: 'Righteous', cursive; */
