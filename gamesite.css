@@ -13,7 +13,7 @@ h1 {
   color: #00FA9A;
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 body{
@@ -61,6 +61,8 @@ b{
   padding-top: 100px;
   padding-bottom: 80px;
   text-shadow: 4px 4px blue;
+}
+
 }
 /* font-family: 'Acme', sans-serif;
 font-family: 'Abril Fatface', cursive;
