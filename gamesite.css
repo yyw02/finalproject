@@ -54,6 +54,14 @@ margin: 0;
 padding: 0;
 }
 
+b{
+  font-size: 30px;
+  text-decoration: none;
+  color : 	#FFB6C1;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  text-shadow: 4px 4px blue;
+}
 /* font-family: 'Acme', sans-serif;
 font-family: 'Abril Fatface', cursive;
 font-family: 'Baloo Chettan', cursive;
