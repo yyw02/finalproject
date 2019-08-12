@@ -10,7 +10,7 @@ h1 {
   font-size: 60px;
   text-decoration: underline;
   font-family: 'Righteous', cursive;
-  color: #9EC8F5;
+  color: #00FA9A;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -23,9 +23,10 @@ body{
 a{
   font-size: 30px;
   text-decoration: none;
-  color : #9EC8F5;
+  color : #00FA9A;
   padding-top: 100px;
   padding-bottom: 80px;
+  text-shadow: 4px 4px red;
 }
 
 img {
